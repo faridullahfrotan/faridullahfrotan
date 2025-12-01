@@ -1,6 +1,6 @@
 <img width="100%" height="300px" src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif"/>
 
-<h1 align="center">Hi 👋 Dear, I'm FAIDULLAH FROTAN</h1>
+<h1 align="center">Hi 👋 Dear, I'm FARIDULLAH FROTAN</h1>
 <br/>
 <h3 align="center">A student at Nangarhar university</h3>
 <br/>
