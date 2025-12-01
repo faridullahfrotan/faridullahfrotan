@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Dear, I'm FAIDULLAH FROTAN</h1>
 <h3 align="center">A student at Nangarhar university</h3>
 
-<img align="right" radius="5px" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KUiOegenrl49q3AYAY9Ru925_I1WFPErAA&s">
+<img align="right" radius="5px" width="400" src="https://raw.githubusercontent.com/faridullahfrotan/faridullahfrotan/426a46084807ee977a7fdba85ad263e666edd250/qlIb5hr0jR.gif">
 
 - 🔭 I’m currently working with **HTML,CSS and JAVASCRIPT**
 
