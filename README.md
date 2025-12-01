@@ -1,3 +1,5 @@
+<img width="100%" height="300px" src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif"/>
+
 <h1 align="center">Hi 👋 Dear, I'm FAIDULLAH FROTAN</h1>
 <br/>
 <h3 align="center">A student at Nangarhar university</h3>
@@ -6,7 +8,7 @@
 <br/>
 <br/>
 
-<img align="right" radius="5px" width="400" height="440px" src="https://raw.githubusercontent.com/faridullahfrotan/faridullahfrotan/426a46084807ee977a7fdba85ad263e666edd250/qlIb5hr0jR.gif">
+<img align="right" radius="5px" width="400" height="440px" src="https://raw.githubusercontent.com/faridullahfrotan/faridullahfrotan/426a46084807ee977a7fdba85ad263e666edd250/qlIb5hr0jR.gif"/>
 
 - 🔭 I’m currently working with **HTML,CSS and JAVASCRIPT**
 
