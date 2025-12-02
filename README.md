@@ -27,6 +27,7 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=61557877022004"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="فریدالله فروتن" height="30" width="40" /></a>
 </p>
+<a href="https://t.me/Faridullah"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="فریدالله فروتن" height="30" width="40" />ff</a>
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
