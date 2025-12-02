@@ -25,8 +25,8 @@
 <h3 align="left">Connect with me:</h3>
 <hr/>
 <a href="https://www.facebook.com/profile.php?id=61557877022004"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="فریدالله فروتن" height="30" width="40" /></a>
-<a href="https://t.me/Frotan250"><img align="center" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_1280.png" alt="فریدالله فروتن" height="30" width="30" />ff</a>
-<a href="https://www.instagram.com/frotan.faridullah?igsh=emlyNjJreGk5ahttps://www.instagram.com/frotan.faridullah?igsh=emlyNjJreGk5aHVw"><img align="center" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTMzLW5lb24tMDAzLmpwZw.jpg" alt="فریدالله فروتن" height="30" width="30" />ff</a>
+<a href="https://t.me/Frotan250"><img align="center" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-6896827_1280.png" alt="فریدالله فروتن" height="30" width="30" /></a>
+<a href="https://www.instagram.com/frotan.faridullah?igsh=emlyNjJreGk5ahttps://www.instagram.com/frotan.faridullah?igsh=emlyNjJreGk5aHVw"><img align="center" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTMzLW5lb24tMDAzLmpwZw.jpg" alt="فریدالله فروتن" height="30" width="30" /></a>
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
