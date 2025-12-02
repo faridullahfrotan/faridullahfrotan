@@ -8,9 +8,7 @@
 <br/>
 <br/>
 
-<img align="right" radius="5px" width="400" height="440px" src="https://raw.githubusercontent.com/faridullahfrotan/faridullahfrotan/426a46084807ee977a7fdba85ad263e666edd250/qlIb5hr0jR.gif"/>
-
-- 🔭 I’m currently working with **HTML,CSS and JAVASCRIPT**
+- 🔭 I enjoy working with **HTML,CSS and JAVASCRIPT**
 
 - 🌱 I’m currently learning **Javascript**
 
