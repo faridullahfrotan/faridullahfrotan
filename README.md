@@ -24,10 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <hr/>
-<p align="left">
 <a href="https://www.facebook.com/profile.php?id=61557877022004"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="فریدالله فروتن" height="30" width="40" /></a>
-</p>
-<a href="https://t.me/Faridullah"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="فریدالله فروتن" height="30" width="40" />ff</a>
+<a href="https://t.me/Frotan"><img align="center" src="https://github.com/faridullahfrotan/faridullahfrotan/commit/6b50a68544707d3c0b0910083f565162349bdff7" alt="فریدالله فروتن" height="30" width="40" />ff</a>
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
